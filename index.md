@@ -3,9 +3,7 @@
 # TEST HOME PAGE
 
 $$
-\begin{equation}
-    \int_0^1 f(x)dx
-\end{equation}
+    \int_0^1 f(x) dx
 $$
 
 
