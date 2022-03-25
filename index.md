@@ -1,4 +1,9 @@
-@def title = "Test Page"
+@def title = "MINTS ML Snippets"
+
+# TEST HOME PAGE
+
+
+
 
 <!-- # How to use Franklin -->
 
