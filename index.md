@@ -1,11 +1,19 @@
-@def title = "MINTS ML Snippets"
+@def title = "MINTS Code Snippets"
 
-# TEST HOME PAGE
+# Multi-scale Integrated Sensing and Simulation (MINTS)
+(about our research group) 
 
-$$
-    \int_0^1 f(x) dx
-$$
+## Physics in service of society
 
+(mission statement)
+
+## Machine learning for physical sensing
+
+(overview of machine learning, i.e. what is it and the different types)
+
+## How to use this resource
+
+(How to navigate using the sidebar, julia snippets, etc...)
 
 <!-- # How to use Franklin -->
 

@@ -1,4 +1,4 @@
-@def prepath = "ML-Snippets"
+@def prepath = "Code-Snippets"
 
 
 <!--
