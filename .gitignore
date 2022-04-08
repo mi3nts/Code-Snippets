@@ -1,3 +1,4 @@
+__site/
 .github/workflows
 .DS_Store
 node_modules/
